@@ -75,16 +75,114 @@ As informações acima foram sintetizadas a partir das seguintes fontes presente
 
 3# Qual a relação da água para o café e maquinário, relação de segurança para ambos, o que impactam os sais minerais como Cálcio, Magnésio, Bicarbonato entre outros e qual a indicação de água para tal variedade do grão e tipo de torras. Informe as fontes de onde conseguiu os dados.
 
-R# A composição mineral da água é o fator determinante tanto para a qualidade sensorial da bebida quanto para a longevidade e segurança dos equipamentos1more_horiz.1. Relação Água, Café e Maquinário (Segurança e Proteção)A água representa cerca de 98% a 99% do volume em métodos filtrados e de 88% a 92% no espresso1. Ela funciona como um reagente químico ativo na dissolução de solúveis1. O equilíbrio mineral afeta diretamente a extração e a integridade da máquina:Proteção contra Calcificação (Incrustação): Ocorre quando a água contém alta concentração de Cálcio ($\text{Ca}^{2+}$) e Bicarbonato ($\text{HCO}_3^-$)4. Ao ser aquecido em caldeiras (especialmente a temperaturas de espresso entre $92^\circ\text{C}$ e $130^\circ\text{C}$), o bicarbonato se decompõe e precipita como Carbonato de Cálcio ($\text{CaCO}_3$)45. Esse acúmulo reduz a eficiência térmica, entope válvulas e desestabiliza a temperatura do grupo de extração45.Proteção contra Corrosão: Acontece quando a água apresenta alcalinidade muito baixa ($\text{KH} < 40\text{ ppm}$), pH ácido ($< 6.5$) ou presença de íons corrosivos como cloretos e sulfatos56. Águas puras sem minerais (como água destilada ou osmose reversa pura) atacam as tubulações de metal (cobre, latão, aço) das máquinas57.Faixa de Segurança Recomendada: Para máquinas de espresso, utiliza-se a estratégia de manter a dureza de cálcio baixa ($\text{Ca}^{2+} < 15\text{ ppm}$) com magnésio compensatório, ou a fórmula RPavlis (água destilada re-mineralizada apenas com Bicarbonato de Potássio $\text{KHCO}_3$, com $\text{GH} = 0$ e $\text{KH} \approx 40\text{--}50\text{ ppm}$), zerando o risco de incrustação sem causar corrosão89.2. O Impacto dos Sais Minerais na BebidaOs minerais dividem-se em dois grupos funcionais: a Dureza Geral ($\text{GH}$) e a Alcalinidade ($\text{KH}$)1011.Magnésio ($\text{Mg}^{2+}$): Possui menor raio iônico e alta densidade de carga, ligando-se fortemente a pequenas moléculas de ácidos orgânicos leves e compostos aromáticos12. Favorece uma acidez brilhante, notas florais e frutadas, além de apresentar menor tendência a incrustar caldeiras em relação ao cálcio8more_horiz.Cálcio ($\text{Ca}^{2+}$): Possui maior raio iônico e liga-se preferencialmente a compostos de maior massa molecular12. É o responsável por acentuar o corpo, a cremosidade, a textura tátil e a percepção de doçura na xícara12more_horiz. Em níveis elevados, porém, mascara nuances aromáticas e gera amargor áspero1215.Bicarbonato ($\text{HCO}_3^-$) / Alcalinidade Total ($\text{KH}$): Atua como um tampão químico que neutraliza os íons hidrônio ($\text{H}^+$) dos ácidos orgânicos extraídos1116.$\text{KH}$ muito baixo ($< 20\text{ ppm}$): Faltam tampões, tornando a bebida agressivamente azeda e desequilibrada16.$\text{KH}$ muito alto ($> 70\text{ ppm}$): Neutraliza em excesso os ácidos cítrico e málico, tornando o café plano, opaco e com residual amargo1617.Sódio ($\text{Na}^+$): Em pequenas doses ($< 10\text{ mg/L}$), arredonda a bebida e realça a percepção de doçura614. Acima desse nível, introduz sabores salinos ou metálicos615.3. Indicação de Água por Variedade de Grão e Grau de TorraAs exigências hidroquímicas variam conforme a porosidade do grão e sua composição ácida intrínseca18more_horiz:Variedade / Perfil de TorraPerfil de Água IndicadoJustificativa Hidroquímica e Impacto SensorialTorras Claras / Variedades Nobres
-(ex: Arabica Gesha, Bourbons de alta altitude)1819GH: $80\text{--}110\text{ ppm}$
-KH: $20\text{--}30\text{ ppm}$
-(Razão $\text{GH:KH} > 2.5:1$, predomínio de $\text{Mg}^{2+}$)18more_horizGrãos pouco porosos necessitam de alta força extrativa ($\text{GH}$ alta). O $\text{KH}$ baixo previne o mascaramento da acidez cítrica/floral delicada18more_horiz.Torras Médias / Perfil Equilibrado
-(ex: Arabica Bourbon Lavado/Natural)1922TDS: $125\text{--}150\text{ mg/L}$
-GH: $68\text{--}85\text{ ppm}$
-KH: $40\text{--}50\text{ ppm}$622Padrão SCA. Promove a dissolução harmoniosa de açúcares e ácidos, entregando corpo xaroposo, notas de chocolate e acidez macia19more_horiz.Torras Escuras e Grãos Rígidos
-(ex: Robusta, Catimor torra média-escura)1922GH: $20\text{--}40\text{ ppm}$ (Água Macia)
-KH: $70\text{--}120\text{ ppm}$ (Alta Alcalinidade)2022Matriz celular muito porosa com alto teor de amargor. A água macia limita a extração de adstringentes e o $\text{KH}$ alto tampona o excesso de ácido acético e fenilindanos19more_horiz.4. Fontes da PesquisaAs informações foram extraídas e cruzadas a partir dos documentos do caderno:A Hidroquímica dos Cafés Especiais: Perfis Mineralógicos e Parâmetros de Água... (Estudo completo sobre ligação de $\text{Ca}^{2+}$ e $\text{Mg}^{2+}$, tampão de bicarbonato, proteção de caldeiras e tabelas de perfil por torra/método)1more_horiz.Água para Cafés 12.2023.pdf (Verônica Belchior) (Análise de corrosão vs. incrustação, tratamento de água por troca iônica e limites de segurança das caldeiras)5more_horiz.Coffee Brewing Water: Test First, 150 mg/L TDS at Home and Cafés (Parâmetros de alcalinidade da SCA e preservação da acidez)1727.Masterclass Filtrado v2.pdf & Water Quality Analyzer for Coffee (SCA Standard) (Tabelas de parâmetros de dureza, alcalinidade, pH e sódio)6more_horiz.Jonathan Gagné - The Physics of Filter Coffee & Two Concentrates for Coffee Water (Cinética de extração por magnésio/cálcio e riscos operacionais)13more_horiz.Notas do Caderno: Torra e Variedades do Café (Relação botânica entre densidade do Gesha, Bourbon, Catimor e Robusta com a porosidade da torra)1920
+R# A composição mineral da água é o fator determinante tanto para a **qualidade sensorial da bebida** quanto para a **longevidade e segurança dos equipamentos**. 
+
+---
+
+### 1. Relação Água, Café e Maquinário (Segurança e Proteção)
+
+A água representa cerca de **98% a 99% do volume em métodos filtrados** e de **88% a 92% no espresso**. Ela funciona como um reagente químico ativo na dissolução de solúveis. O equilíbrio mineral afeta diretamente a extração e a integridade da máquina:
+
+* **Proteção contra Calcificação (Incrustação):** Ocorre quando a água contém alta concentração de **Cálcio (\\(\text{Ca}^{2+}\\))** e **Bicarbonato (\\(\text{HCO}_3^-\\))**. Ao ser aquecido em caldeiras (especialmente a temperaturas de espresso entre \\(92^\circ\text{C}\\) e \\(130^\circ\text{C}\\)), o bicarbonato se decompõe e precipita como **Carbonato de Cálcio (\\(\text{CaCO}_3\\))**. Esse acúmulo reduz a eficiência térmica, entope válvulas e desestabiliza a temperatura do grupo de extração.
+* **Proteção contra Corrosão:** Acontece quando a água apresenta **alcalinidade muito baixa (\\(\text{KH} < 40\text{ ppm}\\))**, **pH ácido (\\(< 6.5\\))** ou presença de íons corrosivos como cloretos e sulfatos. Águas puras sem minerais (como água destilada ou osmose reversa pura) atacam as tubulações de metal (cobre, latão, aço) das máquinas.
+* **Faixa de Segurança Recomendada:** Para máquinas de espresso, utiliza-se a estratégia de manter a **dureza de cálcio baixa (\\(\text{Ca}^{2+} < 15\text{ ppm}\\))** com magnésio compensatório, ou a fórmula **RPavlis** (água destilada re-mineralizada apenas com Bicarbonato de Potássio \\(\text{KHCO}_3\\), com \\(\text{GH} = 0\\) e \\(\text{KH} \approx 40\text{--}50\text{ ppm}\\)), zerando o risco de incrustação sem causar corrosão.
+
+---
+
+### 2. O Impacto dos Sais Minerais na Bebida
+
+Os minerais dividem-se em dois grupos funcionais: a **Dureza Geral (\\(\text{GH}\\))** e a **Alcalinidade (\\(\text{KH}\\))**.
+
+* **Magnésio (\\(\text{Mg}^{2+}\\)):** Possui menor raio iônico e alta densidade de carga, ligando-se fortemente a pequenas moléculas de ácidos orgânicos leves e compostos aromáticos. Favorece uma **acidez brilhante, notas florais e frutadas**, além de apresentar menor tendência a incrustar caldeiras em relação ao cálcio.
+* **Cálcio (\\(\text{Ca}^{2+}\\)):** Possui maior raio iônico e liga-se preferencialmente a compostos de maior massa molecular. É o responsável por acentuar o **corpo, a cremosidade, a textura tátil e a percepção de doçura** na xícara. Em níveis elevados, porém, mascara nuances aromáticas e gera amargor áspero.
+* **Bicarbonato (\\(\text{HCO}_3^-\\)) / Alcalinidade Total (\\(\text{KH}\\)):** Atua como um tampão químico que neutraliza os íons hidrônio (\\(\text{H}^+\\)) dos ácidos orgânicos extraídos.
+  * **\\(\text{KH}\\) muito baixo (\\(< 20\text{ ppm}\\)):** Faltam tampões, tornando a bebida **agressivamente azeda e desequilibrada**.
+  * **\\(\text{KH}\\) muito alto (\\(> 70\text{ ppm}\\)):** Neutraliza em excesso os ácidos cítrico e málico, tornando o café **plano, opaco e com residual amargo**.
+* **Sódio (\\(\text{Na}^+\\)):** Em pequenas doses (\\(< 10\text{ mg/L}\\)), arredonda a bebida e realça a percepção de doçura. Acima desse nível, introduz sabores salinos ou metálicos.
+
+---
+
+### 3. Indicação de Água por Variedade de Grão e Grau de Torra
+
+As exigências hidroquímicas variam conforme a porosidade do grão e sua composição ácida intrínseca:
+
+| Variedade / Perfil de Torra | Perfil de Água Indicado | Justificativa Hidroquímica e Impacto Sensorial |
+| :--- | :--- | :--- |
+| **Torras Claras / Variedades Nobres**<br>*(ex: Arabica Gesha, Bourbons de alta altitude)* | **GH:** \\(80\text{--}110\text{ ppm}\\)<br>**KH:** \\(20\text{--}30\text{ ppm}\\)<br>*(Razão \\(\text{GH:KH} > 2.5:1\\), predomínio de \\(\text{Mg}^{2+}\\))* | Grãos pouco porosos necessitam de **alta força extrativa (\\(\text{GH}\\) alta)**. O **\\(\text{KH}\\) baixo** previne o mascaramento da acidez cítrica/floral delicada. |
+| **Torras Médias / Perfil Equilibrado**<br>*(ex: Arabica Bourbon Lavado/Natural)* | **TDS:** \\(125\text{--}150\text{ mg/L}\\)<br>**GH:** \\(68\text{--}85\text{ ppm}\\)<br>**KH:** \\(40\text{--}50\text{ ppm}\\) | Padrão SCA. Promove a dissolução harmoniosa de açúcares e ácidos, entregando **corpo xaroposo, notas de chocolate e acidez macia**. |
+| **Torras Escuras e Grãos Rígidos**<br>*(ex: Robusta, Catimor torra média-escura)* | **GH:** \\(20\text{--}40\text{ ppm}\\) (Água Macia)<br>**KH:** \\(70\text{--}120\text{ ppm}\\) (Alta Alcalinidade) | Matriz celular muito porosa com alto teor de amargor. A **água macia limita a extração de adstringentes** e o **\\(\text{KH}\\) alto tampona o excesso de ácido acético e fenilindanos**. |
+
+---
+
+### 4. Fontes da Pesquisa
+
+As informações foram extraídas e cruzadas a partir dos documentos do caderno:
+
+1. **A Hidroquímica dos Cafés Especiais: Perfis Mineralógicos e Parâmetros de Água...** *(Estudo completo sobre ligação de \\(\text{Ca}^{2+}\\) e \\(\text{Mg}^{2+}\\), tampão de bicarbonato, proteção de caldeiras e tabelas de perfil por torra/método)*.
+2. **Água para Cafés 12.2023.pdf (Verônica Belchior)** *(Análise de corrosão vs. incrustação, tratamento de água por troca iônica e limites de segurança das caldeiras)*.
+3. **Coffee Brewing Water: Test First, 150 mg/L TDS at Home and Cafés** *(Parâmetros de alcalinidade da SCA e preservação da acidez)*.
+4. **Masterclass Filtrado v2.pdf** & **Water Quality Analyzer for Coffee (SCA Standard)** *(Tabelas de parâmetros de dureza, alcalinidade, pH e sódio)*.
+5. **Jonathan Gagné - The Physics of Filter Coffee** & **Two Concentrates for Coffee Water** *(Cinética de extração por magnésio/cálcio e riscos operacionais)*.
+6. **Notas do Caderno: Torra e Variedades do Café** *(Relação botânica entre densidade do Gesha, Bourbon, Catimor e Robusta com a porosidade da torra)*.
+
+---
 
 4# Informe as boas práticas do armazenamento de cafés verdes e torrados e os porquês deles, assim como as fontes que você conseguiu.
 
-R# O armazenamento correto de cafés verdes e torrados visa controlar as transformações físico-químicas que causam a perda de frescor, deterioração sensorial ou contaminação microbiológica12. Enquanto o café verde possui uma matriz biológica mais estável, o café torrado é altamente instável devido ao aumento de sua porosidade e à exposição aos fatores ambientais1more_horiz.1. Boas Práticas no Armazenamento de Café VerdeManutenção da Umidade e Atividade de Água ($a_w$):A Prática: Manter a umidade dos grãos secos entre 10% e 12% (máximo de 12,5%) e a atividade de água ($a_w$) na faixa de 0,51 a 0,595more_horiz.O Porquê: Uma atividade de água ou umidade elevadas aumentam a mobilidade das moléculas e aceleram a degradação dos grãos, causando branqueamento e perda de cor (o que reduz seu valor de mercado)910. Além disso, a alta umidade cria condições propícias para o desenvolvimento de fungos (como Aspergillus niger e Aspergillus ochraceus), que podem comprometer a qualidade sensorial ou produzir toxinas como a ocratoxina A (OTA)67.Uso de Embalagens Herméticas de Alta Barreira (ex: GrainPro, Kantong Semar):A Prática: Substituir ou revestir os sacos de juta tradicionais com sacos de polímero de alta barreira contra gases e umidade67. Embalagens herméticas acompanhadas de dessecantes auxiliam no controle em ambientes críticos6.O Porquê: Os sacos de juta convencionais deixam os grãos expostos a flutuações de umidade relativa e oxigênio do ambiente, levando ao branqueamento, oxidação lipídica e perda da acidez nativa6more_horiz. Embalagens herméticas mantêm a atividade de água e a cor dos grãos estáveis por vários meses de transporte e estocagem67.Controle de Temperatura e Luminosidade:A Prática: Armazenar os lotes sob sombra em temperaturas amenas (idealmente entre 10 °C e 18 °C)59.O Porquê: Temperaturas elevadas (como 25 °C ou mais) aceleram a cinética de envelhecimento dos grãos verdes, alterando as coordenadas de cor (aumento da luminosidade $L$) e acelerando a oxidação dos lipídios internos9more_horiz.2. Boas Práticas no Armazenamento de Café TorradoProteção Absoluta contra o Oxigênio ($O_2$):A Prática: Armazenar em embalagens laminadas com barreira de alumínio, válvulas unidirecionais ou lavagem com gás inerte (nitrogênio)10more_horiz.O Porquê: O oxigênio é o principal acelerador do envelhecimento do café torrado10. Ele oxida os compostos aromáticos voláteis (VOCs) e degrada compostos sulfurados (como o metanotiol), gerando compostos responsáveis por off-flavors e sabor rançoso1014. A redução de apenas 0,5% de $O_2$ no ambiente de armazenamento pode aumentar a vida de prateleira do café em até 20 vezes10.Preservação do $CO_2$ e Manejo da Desgaseificação:A Prática: Utilizar embalagens com válvula unidirecional e evitar abrir o pacote repetidamente1213.O Porquê: A torra altera a estrutura celular, aumentando a porosidade do grão em cerca de 4 vezes e gerando microporos (10–50 nm) e macroporos (30–50 $\mu$m) que retêm $CO_2$ (cerca de 1% a 2% do peso do café)3more_horiz. Esse $CO_2$ cria uma atmosfera protetora natural dentro da embalagem selada e é fundamental para a formação de crema no espresso e para o blooming no filtrado13more_horiz. Quando o pacote é aberto sucessivas vezes, o gás protetor escapa e o oxigênio entra, acelerando a perda de aromas1316.Congelamento em Freezer (para Longos Períodos):A Prática: Congelar o café em grãos inteiros, em embalagens herméticas seladas ou fracionadas em doses únicas1617.O Porquê: A taxa de degradação química obedece à Equação de Arrhenius ($Q_{10} \approx 1,8$), em que uma queda na temperatura reduz drasticamente a velocidade das reações químicas e a desgaseificação3more_horiz. Armazenar grãos selados no freezer (ex: -18 °C a -25 °C) prolonga o frescor de 1–4 semanas (em temperatura ambiente) para 3 meses até 1 ano1017.Moagem Apenas no Momento do Preparo:A Prática: Manter o café em grãos e moer somente a quantidade que será consumida imediatamente.O Porquê: A moagem fragmenta a estrutura do grão e expõe sua área de superfície interna, acelerando drasticamente a perda de compostos voláteis e $CO_2$3more_horiz. No café moído, o aumento da temperatura eleva a perda de aroma a uma taxa de 50% a cada 10 °C de aumento310.Fracionamento em Dose Única (Single-Dosing) e Redução de Espaço Livre (Headspace):A Prática: Espremer todo o ar da embalagem antes de fechá-la ou fracionar o café em tubos/potes herméticos de dose única assim que o pacote principal for aberto13more_horiz.O Porquê: O ar que permanece no espaço livre de uma embalagem entreaberta contém oxigênio e umidade suficientes para oxidar os grãos restantes1316. Fracionar em doses únicas garante que cada porção de café passe por apenas um evento de exposição ao ar16.3. Fontes da PesquisaAs diretrizes e dados químicos apresentados foram sintetizados a partir dos seguintes documentos presentes no seu caderno:Armazenamento e Frescor 12.2023.pdf — Dra. Verônica Belchior, PhD (Cinética de degradação por temperatura/Arrhenius, papel do $O_2$ e $CO_2$, perda de compostos voláteis e congelamento)1more_horiz.Jonathan Gagne - The Physics of Filter Coffee (2021) — Jonathan Gagné & Scott Rao (Mecanismos de embalagens com válvula, vácuo, headspace, preservação por lavagem a gás inerte e técnica de single-dosing)13more_horiz.The use of desiccants for proper moisture preservation in green coffee... (2022) — Laudia Anokye-Bempah et al. (Uso de embalagens herméticas GrainPro/TranSafeliner vs. sacos de juta e dessecanetes para estabilização de $a_w$ e umidade entre 10-12%)56.Assessment of the Quality of Arabica Coffee Beans... (2021) — Okky Setyawati Dharmaputra et al. (Estudo sobre embalagens de alta barreira Kantong Semar vs. polipropileno no controle de fungos como Aspergillus e prevenção de ocratoxina A)7.Effect of Cultivation Region on the Physicochemical and Quality Characteristics of Arabica Coffee (MDPI) (Parâmetros de atividade de água $a_w$ entre 0,51–0,59 e estabilidade microbiológica no café verde)8.Conservação, estabilidade e possíveis alterações em cold brew (2022) — Ivina A. da Silva et al. (Técnicas de preservação de bebidas prontas e alterações de ácidos clorogênicos ao longo do tempo de estocagem)2more_horiz.Masterclass Filtrado v2.pdf & Química Básica para Cafés.pdf (Aumento da porosidade da torra e conservação do grão verde)423.
+R# O armazenamento correto de cafés verdes e torrados visa controlar as transformações físico-químicas que causam a perda de frescor, deterioração sensorial ou contaminação microbiológica. Enquanto o café verde possui uma matriz biológica mais estável, o café torrado é altamente instável devido ao aumento de sua porosidade e à exposição aos fatores ambientais.
+
+---
+
+### 1. Boas Práticas no Armazenamento de Café Verde
+
+* **Manutenção da Umidade e Atividade de Água (\\(a_w\\)):**
+  * **A Prática:** Manter a umidade dos grãos secos entre **10% e 12%** (máximo de 12,5%) e a atividade de água (\\(a_w\\)) na faixa de **0,51 a 0,59**.
+  * **O Porquê:** Uma atividade de água ou umidade elevadas aumentam a mobilidade das moléculas e aceleram a degradação dos grãos, causando branqueamento e perda de cor (o que reduz seu valor de mercado). Além disso, a alta umidade cria condições propícias para o desenvolvimento de fungos (como *Aspergillus niger* e *Aspergillus ochraceus*), que podem comprometer a qualidade sensorial ou produzir toxinas como a ocratoxina A (OTA).
+
+* **Uso de Embalagens Herméticas de Alta Barreira (ex: GrainPro, Kantong Semar):**
+  * **A Prática:** Substituir ou revestir os sacos de juta tradicionais com sacos de polímero de alta barreira contra gases e umidade. Embalagens herméticas acompanhadas de dessecantes auxiliam no controle em ambientes críticos.
+  * **O Porquê:** Os sacos de juta convencionais deixam os grãos expostos a flutuações de umidade relativa e oxigênio do ambiente, levando ao branqueamento, oxidação lipídica e perda da acidez nativa. Embalagens herméticas mantêm a atividade de água e a cor dos grãos estáveis por vários meses de transporte e estocagem.
+
+* **Controle de Temperatura e Luminosidade:**
+  * **A Prática:** Armazenar os lotes sob sombra em temperaturas amenas (idealmente entre **10 °C e 18 °C**).
+  * **O Porquê:** Temperaturas elevadas (como 25 °C ou mais) aceleram a cinética de envelhecimento dos grãos verdes, alterando as coordenadas de cor (aumento da luminosidade \\(L\\)) e acelerando a oxidação dos lipídios internos.
+
+---
+
+### 2. Boas Práticas no Armazenamento de Café Torrado
+
+* **Proteção Absoluta contra o Oxigênio (\\(O_2\\)):**
+  * **A Prática:** Armazenar em embalagens laminadas com barreira de alumínio, válvulas unidirecionais ou lavagem com gás inerte (nitrogênio).
+  * **O Porquê:** O oxigênio é o principal acelerador do envelhecimento do café torrado. Ele oxida os compostos aromáticos voláteis (VOCs) e degrada compostos sulfurados (como o metanotiol), gerando compostos responsáveis por *off-flavors* e sabor rançoso. A redução de apenas 0,5% de \\(O_2\\) no ambiente de armazenamento pode aumentar a vida de prateleira do café em até **20 vezes**.
+
+* **Preservação do \\(CO_2\\) e Manejo da Desgaseificação:**
+  * **A Prática:** Utilizar embalagens com **válvula unidirecional** e evitar abrir o pacote repetidamente.
+  * **O Porquê:** A torra altera a estrutura celular, aumentando a porosidade do grão em cerca de 4 vezes e gerando microporos (10–50 nm) e macroporos (30–50 \\(\mu\\)m) que retêm \\(CO_2\\) (cerca de 1% a 2% do peso do café). Esse \\(CO_2\\) cria uma atmosfera protetora natural dentro da embalagem selada e é fundamental para a formação de *crema* no espresso e para o *blooming* no filtrado. Quando o pacote é aberto sucessivas vezes, o gás protetor escapa e o oxigênio entra, acelerando a perda de aromas.
+
+* **Congelamento em Freezer (para Longos Períodos):**
+  * **A Prática:** Congelar o café em **grãos inteiros**, em embalagens herméticas seladas ou fracionadas em doses únicas.
+  * **O Porquê:** A taxa de degradação química obedece à Equação de Arrhenius (\\(Q_{10} \approx 1,8\\)), em que uma queda na temperatura reduz drasticamente a velocidade das reações químicas e a desgaseificação. Armazenar grãos selados no freezer (ex: -18 °C a -25 °C) prolonga o frescor de 1–4 semanas (em temperatura ambiente) para **3 meses até 1 ano**.
+
+* **Moagem Apenas no Momento do Preparo:**
+  * **A Prática:** Manter o café em grãos e moer somente a quantidade que será consumida imediatamente.
+  * **O Porquê:** A moagem fragmenta a estrutura do grão e expõe sua área de superfície interna, acelerando drasticamente a perda de compostos voláteis e \\(CO_2\\). No café moído, o aumento da temperatura eleva a perda de aroma a uma taxa de 50% a cada 10 °C de aumento.
+
+* **Fracionamento em Dose Única (*Single-Dosing*) e Redução de Espaço Livre (*Headspace*):**
+  * **A Prática:** Espremer todo o ar da embalagem antes de fechá-la ou fracionar o café em tubos/potes herméticos de dose única assim que o pacote principal for aberto.
+  * **O Porquê:** O ar que permanece no espaço livre de uma embalagem entreaberta contém oxigênio e umidade suficientes para oxidar os grãos restantes. Fracionar em doses únicas garante que cada porção de café passe por apenas um evento de exposição ao ar.
+
+---
+
+### 3. Fontes da Pesquisa
+
+As diretrizes e dados químicos apresentados foram sintetizados a partir dos seguintes documentos presentes no seu caderno:
+
+1. **Armazenamento e Frescor 12.2023.pdf** — *Dra. Verônica Belchior, PhD* (Cinética de degradação por temperatura/Arrhenius, papel do \\(O_2\\) e \\(CO_2\\), perda de compostos voláteis e congelamento).
+2. **Jonathan Gagne - The Physics of Filter Coffee (2021)** — *Jonathan Gagné & Scott Rao* (Mecanismos de embalagens com válvula, vácuo, *headspace*, preservação por lavagem a gás inerte e técnica de *single-dosing*).
+3. **The use of desiccants for proper moisture preservation in green coffee... (2022)** — *Laudia Anokye-Bempah et al.* (Uso de embalagens herméticas GrainPro/TranSafeliner vs. sacos de juta e dessecanetes para estabilização de \\(a_w\\) e umidade entre 10-12%).
+4. **Assessment of the Quality of Arabica Coffee Beans... (2021)** — *Okky Setyawati Dharmaputra et al.* (Estudo sobre embalagens de alta barreira Kantong Semar vs. polipropileno no controle de fungos como *Aspergillus* e prevenção de ocratoxina A).
+5. **Effect of Cultivation Region on the Physicochemical and Quality Characteristics of Arabica Coffee (MDPI)** (Parâmetros de atividade de água \\(a_w\\) entre 0,51–0,59 e estabilidade microbiológica no café verde).
+6. **Conservação, estabilidade e possíveis alterações em cold brew (2022)** — *Ivina A. da Silva et al.* (Técnicas de preservação de bebidas prontas e alterações de ácidos clorogênicos ao longo do tempo de estocagem).
+7. **Masterclass Filtrado v2.pdf** & **Química Básica para Cafés.pdf** (Aumento da porosidade da torra e conservação do grão verde).
+
+---
