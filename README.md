@@ -8,70 +8,74 @@ Perguntas realizadas:
 
 R#  O **controle de fluxo** no café filtrado altera diretamente a **dinâmica de extração**, a **geometria da cama de café** e o **perfil sensorial final da bebida**. Essa variável impacta a xícara em quatro aspectos principais:
 
-### 1\. Tempo de Contato, Agitação e Força da Bebida (TDS e EY)
+### 1. Tempo de Contato, Agitação e Força da Bebida (TDS e EY)
+* **Maior agitação e vazões mais altas (> 7 g/s ou fluxo circular):** Aumentam a turbulência no leito de café. Essa agitação eleva o tempo de contato com a borra e a velocidade de liberação de sólidos, resultando em um **maior TDS (Total Dissolved Solids)** e em um **maior rendimento de extração (EY)**.
+* **Menor agitação e vazões mais baixas (< 3 g/s ou fluxo central):** Conduzem a água prioritariamente para uma fase de diluição rápida, reduzindo o tempo de contato. Isso torna a extração mais veloz e produz uma bebida de corpo mais leve e **menor TDS**.
 
-* **Maior agitação e vazões mais altas (&gt; 7 g/s ou fluxo circular):** Aumentam a turbulência no leito de café[1]. Essa agitação eleva o tempo de contato com a borra e a velocidade de liberação de sólidos, resultando em um **maior TDS (Total Dissolved Solids)** e em um **maior rendimento de extração (EY)**[1][2].
-* **Menor agitação e vazões mais baixas (&lt; 3 g/s ou fluxo central):** Conduzem a água prioritariamente para uma fase de diluição rápida, reduzindo o tempo de contato[1]. Isso torna a extração mais veloz e produz uma bebida de corpo mais leve e **menor TDS**[1][3].
+### 2. Migração de Microfragmentos (*Fines*) e Risco de Entupimento (*Stalling*)
+* Quanto **maior a agitação provocada pelo fluxo**, maior é o descolamento e a **migração de partículas finas (*fines*)** em direção ao fundo do leito e aos poros do filtro de papel. Esse acúmulo aumenta a resistência hidráulica, o que pode desacelerar excessivamente o gotejamento ou causar o **entupimento (*clogging/stalling*)**.
+* O uso de técnicas ou acessórios de fluxo suave/obstruído (como o *Melodrip* ou o despejo sobre uma colher) reduz o impacto do jato d'água na borra. Essa suavização permite aplicar **moagens mais finas sem entupir o filtro**, entregando uma xícara de **alta extração, perfil limpo e acentuada clareza sensorial**.
 
-### 2\. Migração de Microfragmentos (*Fines*) e Risco de Entupimento (*Stalling*)
+### 3. Cinética de Extração e Equilíbrio Químico dos Sabores
+* Os compostos solúveis do café são extraídos em ritmos e velocidades diferentes. Os **ácidos orgânicos** (cítrico e málico) são os primeiros a solubilizar, seguidos pelos açúcares, cafeína e compostos fenólicos moderados, enquanto compostos mais pesados (como diCQAs e melanoidinas macromoleculares) exigem maior tempo de difusão.
+* Ao ajustar a taxa de fluxo, altera-se o **tempo de residência da água no leito**. Um fluxo veloz demais pode passar pela borra sem extrair adequadamente os compostos de difusão mais lenta, alterando o equilíbrio entre acidez, doçura, amargor e viscosidade na bebida.
 
-* Quanto **maior a agitação provocada pelo fluxo**, maior é o descolamento e a **migração de partículas finas (** **fines** **)** em direção ao fundo do leito e aos poros do filtro de papel[4][5]. Esse acúmulo aumenta a resistência hidráulica, o que pode desacelerar excessivamente o gotejamento ou causar o **entupimento (** **clogging/stalling** **)**[4].
-* O uso de técnicas ou acessórios de fluxo suave/obstruído (como o *Melodrip* ou o despejo sobre uma colher) reduz o impacto do jato d'água na borra[7]. Essa suavização permite aplicar **moagens mais finas sem entupir o filtro**, entregando uma xícara de **alta extração, perfil limpo e acentuada clareza sensorial**[7].
+### 4. Uniformidade Hidrodinâmica vs. Canalização (*Channeling*)
+* Um fluxo descontrolado ou excessivamente forte pode deformar a superfície do leito e abrir **canais preferenciais de fluxo (*channeling*)**. 
+* A canalização faz com que a água passe prioritariamente por caminhos de menor resistência, gerando **zonas de sobre-extração** (que trazem amargor seco e adstringência) e **zonas de sub-extração** no mesmo leito de café. Em contrapartida, um fluxo controlado e uniforme promove uma percolação homogênea, permitindo atingir rendimentos de extração elevados (de **22% a 24%**) mantendo o equilíbrio sensorial.
 
-### 3\. Cinética de Extração e Equilíbrio Químico dos Sabores
+---
 
-* Os compostos solúveis do café são extraídos em ritmos e velocidades diferentes[8][9]. Os **ácidos orgânicos** (cítrico e málico) são os primeiros a solubilizar[9][10], seguidos pelos açúcares, cafeína e compostos fenólicos moderados[9], enquanto compostos mais pesados (como diCQAs e melanoidinas macromoleculares) exigem maior tempo de difusão[9].
-* Ao ajustar a taxa de fluxo, altera-se o **tempo de residência da água no leito**[2][11]. Um fluxo veloz demais pode passar pela borra sem extrair adequadamente os compostos de difusão mais lenta, alterando o equilíbrio entre acidez, doçura, amargor e viscosidade na bebida[2].
-
-### 4\. Uniformidade Hidrodinâmica vs. Canalização (*Channeling*)
-
-* Um fluxo descontrolado ou excessivamente forte pode deformar a superfície do leito e abrir **canais preferenciais de fluxo (** **channeling** **)**[5].
-* A canalização faz com que a água passe prioritariamente por caminhos de menor resistência, gerando **zonas de sobre-extração** (que trazem amargor seco e adstringência) e **zonas de sub-extração** no mesmo leito de café[13]. Em contrapartida, um fluxo controlado e uniforme promove uma percolação homogênea, permitindo atingir rendimentos de extração elevados (de **22% a 24%**) mantendo o equilíbrio sensorial[15].
 
 2# Quais as diferenças de torras para específicas variedades de grãos e o que impactam nelas? Informe de onde você tirou as fontes da pesquisa.
 
-R# A intensidade e o perfil de torra interagem diretamente com a densidade celular, a porosidade e a composição química de cada variedade de café[1].
+R# A intensidade e o perfil de torra interagem diretamente com a densidade celular, a porosidade e a composição química de cada variedade de café.
 
 ---
 
-### 1\. Comportamento e Diferenças de Torra por Variedade
+### 1. Comportamento e Diferenças de Torra por Variedade
 
 * **Arabica Gesha (Geisha):**
-  * **Características e Torra:** Cultivada em altas altitudes, possui sementes de elevada densidade celular e riqueza em ácidos orgânicos de baixo peso molecular[4][5]. Beneficia-se de **torras claras (** **light roasts** **)**, que preservam a estrutura das paredes celulares e evitam a degradação dos ácidos nativos[4][5].
-  * **Impacto na Xícara:** A torra clara proporciona alta erosão de compostos florais e citricos, entregando uma **acidez cítrica proeminente, notas florais e corpo leve**[4][5]. Torras mais escuras nesta variedade degradam a complexidade aromática e aumentam a friabilidade do grão, gerando mais partículas finas na moagem[6].
+  * **Características e Torra:** Cultivada em altas altitudes, possui sementes de elevada densidade celular e riqueza em ácidos orgânicos de baixo peso molecular. Beneficia-se de **torras claras (*light roasts*)**, que preservam a estrutura das paredes celulares e evitam a degradação dos ácidos nativos.
+  * **Impacto na Xícara:** A torra clara proporciona alta erosão de compostos florais e citricos, entregando uma **acidez cítrica proeminente, notas florais e corpo leve**. Torras mais escuras nesta variedade degradam a complexidade aromática e aumentam a friabilidade do grão, gerando mais partículas finas na moagem.
+
 * **Arabica Bourbon (ex: Red e Yellow Bourbon):**
-  * **Características e Torra:** Apresenta densidade média-alta e matriz celular rica em açúcares solúveis[4]. Grãos de Bourbon de alta altitude (como os da Colômbia ou Congo) possuem maior estabilidade térmica e perdem menos massa e água durante a torra comparados a lotes de menor altitude[8].
-  * **Impacto na Xícara:** Em **torras médias**, o Bourbon desenvolve uma porosidade bem distribuída pós-torra, permitindo uma difusão equilibrada entre açúcares e ácidos[4][5]. O resultado é uma bebida com **corpo denso e xaroposo, elevada doçura e notas marcantes de chocolate**[4][5].
+  * **Características e Torra:** Apresenta densidade média-alta e matriz celular rica em açúcares solúveis. Grãos de Bourbon de alta altitude (como os da Colômbia ou Congo) possuem maior estabilidade térmica e perdem menos massa e água durante a torra comparados a lotes de menor altitude.
+  * **Impacto na Xícara:** Em **torras médias**, o Bourbon desenvolve uma porosidade bem distribuída pós-torra, permitindo uma difusão equilibrada entre açúcares e ácidos. O resultado é uma bebida com **corpo denso e xaroposo, elevada doçura e notas marcantes de chocolate**.
+
 * **Arabica Catimor (Híbrido de Arábica e Robusta):**
-  * **Características e Torra:** Devido à sua herança genotípica com o Robusta, possui paredes celulares mais rígidas e maior concentração nativa de cafeína e ácidos clorogênicos (CGAs)[4][5]. Quando submetido a torras médias a escuras, o Catimor torna-se bastante friável (quebradiço), produzindo significativamente mais microfragmentos finos (*fines*) na moagem do que um Gesha de torra clara[6].
-  * **Impacto na Xícara:** Para evitar a extração excessiva de compostos fenólicos amargos e adstringentes, o perfil de torra e o preparo (como o uso de água em temperaturas mais brandas, em torno de 90°C) precisam ser ajustados para controlar o fluxo e manter o equilíbrio sensorial de acidez vinhosa e especiarias[4][6].
-* **Robusta (** **Coffea canephora** **):**
-  * **Características e Torra:** Apresenta sementes de extrema densidade celular, teor de cafeína quase duas vezes superior ao do Arábica e altos níveis de CGAs (até 14,4%)[2]. Durante a torra, oferece alta resistência à expansão volumétrica, resultando em menor microporosidade nas paredes celulares[2].
-  * **Impacto na Xícara:** Enquanto o Arábica torrado reduz o total de ácidos orgânicos e mantém o predomínio de ácidos málico e cítrico, a torra no Robusta eleva drasticamente o teor total de ácidos orgânicos, em especial o **ácido acético** (que cresce acentuadamente)[9]. O Robusta torrado também preserva teores elevados de ácidos quinico, tartárico e diCQAs, entregando **amargor pronunciado, corpo denso e alta adstringência**[2].
+  * **Características e Torra:** Devido à sua herança genotípica com o Robusta, possui paredes celulares mais rígidas e maior concentração nativa de cafeína e ácidos clorogênicos (CGAs). Quando submetido a torras médias a escuras, o Catimor torna-se bastante friável (quebradiço), produzindo significativamente mais microfragmentos finos (*fines*) na moagem do que um Gesha de torra clara.
+  * **Impacto na Xícara:** Para evitar a extração excessiva de compostos fenólicos amargos e adstringentes, o perfil de torra e o preparo (como o uso de água em temperaturas mais brandas, em torno de 90°C) precisam ser ajustados para controlar o fluxo e manter o equilíbrio sensorial de acidez vinhosa e especiarias.
+
+* **Robusta (*Coffea canephora*):**
+  * **Características e Torra:** Apresenta sementes de extrema densidade celular, teor de cafeína quase duas vezes superior ao do Arábica e altos níveis de CGAs (até 14,4%). Durante a torra, oferece alta resistência à expansão volumétrica, resultando em menor microporosidade nas paredes celulares.
+  * **Impacto na Xícara:** Enquanto o Arábica torrado reduz o total de ácidos orgânicos e mantém o predomínio de ácidos málico e cítrico, a torra no Robusta eleva drasticamente o teor total de ácidos orgânicos, em especial o **ácido acético** (que cresce acentuadamente). O Robusta torrado também preserva teores elevados de ácidos quinico, tartárico e diCQAs, entregando **amargor pronunciado, corpo denso e alta adstringência**.
 
 ---
 
-### 2\. O que a Torra Altera nos Grãos e no Preparo
+### 2. O que a Torra Altera nos Grãos e no Preparo
 
-* **Estrutura Celular e Porosidade:** A torra provoca um aumento de aproximadamente **4 vezes na porosidade** do grão em relação ao grão verde[12][13], criando microporos nas paredes celulares na faixa de 20 a 50 nm[14][15]. Quanto mais escura a torra, maior o volume de poros e a área de superfície interna exposta[1].
-* **Friabilidade e Moagem:** Grãos mais torrados perdem mais massa orgânica e água, tornando-se mais friáveis[1][16]. Na moagem, grãos de torra escura geram uma proporção muito maior de *fines*, o que pode desacelerar a percolação do filtro[1].
-* **Evolução da Acidez e Amargor:** Torras claras mantêm os ácidos cítrico e málico intactos[9][18]. Conforme a torra avança, esses ácidos degradam-se e o ácido acético aumenta (até 5 vezes mais em torras escuras)[9]. Os ácidos clorogênicos transformam-se primeiro em lactonas (amargor suave) e depois em fenilindanos e dicetopiperazinas (DKP), que geram amargor intenso e áspero[19][20].
+* **Estrutura Celular e Porosidade:** A torra provoca um aumento de aproximadamente **4 vezes na porosidade** do grão em relação ao grão verde, criando microporos nas paredes celulares na faixa de 20 a 50 nm. Quanto mais escura a torra, maior o volume de poros e a área de superfície interna exposta.
+* **Friabilidade e Moagem:** Grãos mais torrados perdem mais massa orgânica e água, tornando-se mais friáveis. Na moagem, grãos de torra escura geram uma proporção muito maior de *fines*, o que pode desacelerar a percolação do filtro.
+* **Evolução da Acidez e Amargor:** Torras claras mantêm os ácidos cítrico e málico intactos. Conforme a torra avança, esses ácidos degradam-se e o ácido acético aumenta (até 5 vezes mais em torras escuras). Os ácidos clorogênicos transformam-se primeiro em lactonas (amargor suave) e depois em fenilindanos e dicetopiperazinas (DKP), que geram amargor intenso e áspero.
 * **Parâmetros de Extração:**
-  * **Temperatura da Água:** Torras claras exigem água mais quente (**95°C a 100°C**) para extrair solubles de um leito menos poroso; torras escuras pedem água mais fria (**80°C a 90°C**) para conter a extração de amargores[21].
-  * **Mineralogia da Águas:** Torras claras demandam águas com maior Dureza Geral (GH 80–110 ppm) e baixa alcalinidade (KH 20–30 ppm) para destacar a acidez[18][22]. Torras escuras necessitam de águas macias (baixo GH) e alta alcalinidade (KH 70–120 ppm) para suavizar compostos amargos[18][22].
+  * **Temperatura da Água:** Torras claras exigem água mais quente (**95°C a 100°C**) para extrair solubles de um leito menos poroso; torras escuras pedem água mais fria (**80°C a 90°C**) para conter a extração de amargores.
+  * **Mineralogia da Águas:** Torras claras demandam águas com maior Dureza Geral (GH 80–110 ppm) e baixa alcalinidade (KH 20–30 ppm) para destacar a acidez. Torras escuras necessitam de águas macias (baixo GH) e alta alcalinidade (KH 70–120 ppm) para suavizar compostos amargos.
 
 ---
 
-### 3\. Fontes da Pesquisa
+### 3. Fontes da Pesquisa
 
 As informações acima foram sintetizadas a partir das seguintes fontes presentes no seu caderno:
 
-1. **Cinética de Extração de Café: Modelagem Físico-Química...** (Análise botânica da densidade, microporosidade e cinética de extração em Gesha, Bourbon, Catimor e Robusta)[1].
-2. **Effect of Cultivation Region on the Physicochemical Properties (Red Bourbon - MDPI)** (Estudo sobre densidade do endosperma, altitude e perda de massa/umidade na torra do Red Bourbon)[7].
-3. **The Physics of Filter Coffee (Jonathan Gagné)** (Análise de friabilidade, distribuição de partículas/fines e comportamento de extração entre Gesha e Catimor)[6][24].
-4. **acidez em cafés port\_compressed.pdf (Verônica Belchior)** (Estudo comparativo sobre a dinâmica dos ácidos orgânicos — cítrico, málico, acético e clorogênicos — na torra de Arábica e Robusta)[9].
-5. **A Hidroquímica dos Cafés Especiais** (Relação entre a porosidade da torra e os parâmetros de dureza/alcalinidade da água)[18][22].
-6. **Pore Structure of Coffee Beans Affected by Roasting Conditions** &amp; **Masterclass Filtrado v2** (Estudos de micro-CT, diâmetro de microporos e ajuste de temperatura por grau de torra)[12].
+1. **Cinética de Extração de Café: Modelagem Físico-Química...** (Análise botânica da densidade, microporosidade e cinética de extração em Gesha, Bourbon, Catimor e Robusta).
+2. **Effect of Cultivation Region on the Physicochemical Properties (Red Bourbon - MDPI)** (Estudo sobre densidade do endosperma, altitude e perda de massa/umidade na torra do Red Bourbon).
+3. **The Physics of Filter Coffee (Jonathan Gagné)** (Análise de friabilidade, distribuição de partículas/fines e comportamento de extração entre Gesha e Catimor).
+4. **acidez em cafés port_compressed.pdf (Verônica Belchior)** (Estudo comparativo sobre a dinâmica dos ácidos orgânicos — cítrico, málico, acético e clorogênicos — na torra de Arábica e Robusta).
+5. **A Hidroquímica dos Cafés Especiais** (Relação entre a porosidade da torra e os parâmetros de dureza/alcalinidade da água).
+6. **Pore Structure of Coffee Beans Affected by Roasting Conditions** & **Masterclass Filtrado v2** (Estudos de micro-CT, diâmetro de microporos e ajuste de temperatura por grau de torra).
+
+---
 
 3# Qual a relação da água para o café e maquinário, relação de segurança para ambos, o que impactam os sais minerais como Cálcio, Magnésio, Bicarbonato entre outros e qual a indicação de água para tal variedade do grão e tipo de torras. Informe as fontes de onde conseguiu os dados.
 
